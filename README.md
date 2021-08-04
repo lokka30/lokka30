@@ -1,68 +1,67 @@
 # Hi, I'm lokka30 👋
 I like to program open source plugins for Minecraft servers in my free time.
 
-Here's an organised list of my repositories:
+Here's an organised list of repositories I actively maintain:
 
-***
+# Minecraft Resources
 
-# Minecraft
+## Favourites
+Here are some of my more popular resources which are also my favourite.
 
-## Main Plugins
-
-### LevelledMobs
+### 💀 LevelledMobs
 * Ever felt mobs in Minecraft were too easy? Want to add an extra RPG feel to your server with very little effort? LevelledMobs is the way to go!
 * [SpigotMC](https://www.spigotmc.org/resources/levelledmobs-for-1-16-x-1-17-x.74304/) or [GitHub](https://github.com/lokka30/LevelledMobs)
 
-### PhantomWorlds
+### 🌏 PhantomWorlds
 * Finally - a robust, lightweight world management solution.
 * [SpigotMC](https://www.spigotmc.org/resources/phantomworlds-for-1-7-x-1-17-x.84099/) or [GitHub](https://github.com/lokka30/PhantomWorlds)
 
-### CommandDefender
+### 🛡️ CommandDefender
 * Block access to commands of your choosing. Brilliant priorities system with argument blocking as well.
 * [SpigotMC](https://www.spigotmc.org/resources/commanddefender-for-1-7-x-1-17-x.84167/) or [GitHub](https://github.com/lokka30/CommandDefender)
 
-### BetterCommandSpy
+### 🕶️ BetterCommandSpy
 * Spy on the commands that players run, increasing your staff team's capability.
 * [SpigotMC](https://www.spigotmc.org/resources/bettercommandspy-for-1-7-x-1-17-x.84030/) or [GitHub](https://github.com/lokka30/BetterCommandSpy)
 
-### LittleThings
+### 🤏 LittleThings
 * A bunch of small things, such as putting arms on armor stands, each of which you can individually enable and configure.
 * [SpigotMC](https://www.spigotmc.org/resources/littlethings-for-1-7-x-1-17-x.84163/) or [GitHub](https://github.com/lokka30/LittleThings)
 
-## Other Plugins
-
-### OnlineRecord
-* Logs and announces when you beat your record of online players.
-* [SpigotMC](https://www.spigotmc.org/resources/onlinerecord-for-1-7-x-1-17-x.87390/) or [GitHub](https://github.com/lokka30/OnlineRecord)
-
-### BedDefender
-* Blocks users from entering beds - used to enhance hardcore survival servers.
-* [SpigotMC](https://www.spigotmc.org/resources/beddefender-for-1-7-x-1-17-x.84183/) or [GitHub](https://github.com/lokka30/BedDefender)
-
-### SleepFixer
+### 🛌 SleepFixer
 * One-player-sleep, as if it were implemented in vanilla Minecraft
 * The most lightweight, bulletproof solution on SpigotMC
 * [SpigotMC](https://www.spigotmc.org/resources/sleepfixer.76746/) or [GitHub](https://github.com/lokka30/SleepFixer)
 
+## Other Plugins
+
+### 📈 OnlineRecord
+* Logs and announces when you beat your record of online players.
+* [SpigotMC](https://www.spigotmc.org/resources/onlinerecord-for-1-7-x-1-17-x.87390/) or [GitHub](https://github.com/lokka30/OnlineRecord)
+
+### 💂 BedDefender
+* Blocks users from entering beds - used to enhance hardcore survival servers.
+* [SpigotMC](https://www.spigotmc.org/resources/beddefender-for-1-7-x-1-17-x.84183/) or [GitHub](https://github.com/lokka30/BedDefender)
+
 ## Libraries
 
-### MicroLib
+### 🌟 MicroLib
 * A small collection of Java code that I use in most of my plugins. I've designed it so other people can easily use it as well :)
 * [SpigotMC](https://www.spigotmc.org/resources/microlib-for-1-7-x-1-17-x.84017/) or [GitHub](https://github.com/lokka30/MicroLib)
 
 ## Work in Progress
 
-### ElementalEconomy
+### 💰 ElementalEconomy
 * A successor to my old Economy plugin, PhantomEconomy - but with *far* better execution.
 * [GitHub](https://github.com/lokka30/ElementalEconomy)
 
-### ElementalMenus
+### 🖼️ ElementalMenus
 * A GUI/Menu creation plugin that makes it super easy to create menus, without sacrificing great features.
 * [GitHub](https://github.com/lokka30/ElementalMenus)
 
 ## Requested Plugins
 
-### MaxHungerFixer
+### 🍖 MaxHungerFixer
 * Prevents users from having more than 20 hunger points
 * Patches an issue with an unnamed premium plugin, may have been fixed since.
 * [SpigotMC](https://www.spigotmc.org/resources/maxhungerfixer-for-1-7-x-1-17-x.84012/) or [GitHub](https://github.com/lokka30/MaxHungerFixer)
