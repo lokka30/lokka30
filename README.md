@@ -5,7 +5,7 @@ Here's an organised list of repositories I actively maintain:
 
 # Minecraft Resources
 
-## 🌟 Favourites
+##Favourites
 Here are some of my more popular resources which are also my favourite.
 
 ### 💀 LevelledMobs
@@ -33,7 +33,7 @@ Here are some of my more popular resources which are also my favourite.
 * The most lightweight, bulletproof solution on SpigotMC
 * [SpigotMC](https://www.spigotmc.org/resources/sleepfixer.76746/) or [GitHub](https://github.com/lokka30/SleepFixer)
 
-## Other Plugins
+## �Other Plugins
 I work on these plugins, but they receive very low demand, and therefore few updates.
 
 ### 📈 OnlineRecord
@@ -44,7 +44,7 @@ I work on these plugins, but they receive very low demand, and therefore few upd
 * Blocks users from entering beds - used to enhance hardcore survival servers.
 * [SpigotMC](https://www.spigotmc.org/resources/beddefender-for-1-7-x-1-17-x.84183/) or [GitHub](https://github.com/lokka30/BedDefender)
 
-## 📚 Libraries
+## Libraries
 
 ### 🌠 MicroLib
 * A small collection of Java code that I use in most of my plugins. I've designed it so other people can easily use it as well :)
@@ -60,7 +60,7 @@ I work on these plugins, but they receive very low demand, and therefore few upd
 * A GUI/Menu creation plugin that makes it super easy to create menus, without sacrificing great features.
 * [GitHub](https://github.com/lokka30/ElementalMenus)
 
-## 🙋 Requested Plugins
+## Requested Plugins
 
 ### 🍖 MaxHungerFixer
 * Prevents users from having more than 20 hunger points
