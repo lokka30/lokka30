@@ -45,12 +45,14 @@ I work on these plugins, but they receive very low demand, and therefore few upd
 * [SpigotMC](https://www.spigotmc.org/resources/beddefender-for-1-7-x-1-17-x.84183/) or [GitHub](https://github.com/lokka30/BedDefender)
 
 ## Libraries
+These are resources that plugin developers can use to (hopefully) enhance their plugins.
 
 ### 🌠 MicroLib
 * A small collection of Java code that I use in most of my plugins. I've designed it so other people can easily use it as well :)
 * [SpigotMC](https://www.spigotmc.org/resources/microlib-for-1-7-x-1-17-x.84017/) or [GitHub](https://github.com/lokka30/MicroLib)
 
 ## 🏗️ Work in Progress
+I'm gradually working on these shiny new resources. Expect to see them on Spigot in the future 😉
 
 ### 💰 ElementalEconomy
 * A successor to my old Economy plugin, PhantomEconomy - but with *far* better execution.
@@ -60,9 +62,11 @@ I work on these plugins, but they receive very low demand, and therefore few upd
 * A GUI/Menu creation plugin that makes it super easy to create menus, without sacrificing great features.
 * [GitHub](https://github.com/lokka30/ElementalMenus)
 
-## Requested Plugins
+***
 
-### 🍖 MaxHungerFixer
-* Prevents users from having more than 20 hunger points
-* Patches an issue with an unnamed premium plugin, may have been fixed since.
-* [SpigotMC](https://www.spigotmc.org/resources/maxhungerfixer-for-1-7-x-1-17-x.84012/) or [GitHub](https://github.com/lokka30/MaxHungerFixer)
+# Need help with any of my resources?
+
+Here are some methods:
+* Join the [ArcanePlugins Discord Server](https://www.discord.io/arcaneplugins).
+* Post on the resource's issue tracker on its GitHub repository.
+* [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30)
