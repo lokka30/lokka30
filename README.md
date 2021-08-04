@@ -33,7 +33,7 @@ Here are some of my more popular resources which are also my favourite.
 * The most lightweight, bulletproof solution on SpigotMC
 * [SpigotMC](https://www.spigotmc.org/resources/sleepfixer.76746/) or [GitHub](https://github.com/lokka30/SleepFixer)
 
-## �Other Plugins
+## Other Plugins
 I work on these plugins, but they receive very low demand, and therefore few updates.
 
 ### 📈 OnlineRecord
