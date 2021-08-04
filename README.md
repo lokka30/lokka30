@@ -5,7 +5,7 @@ Here's an organised list of repositories I actively maintain:
 
 # Minecraft Resources
 
-##Favourites
+## Favourites
 Here are some of my more popular resources which are also my favourite.
 
 ### 💀 LevelledMobs
