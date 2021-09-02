@@ -10,6 +10,7 @@ Here are some of my more popular resources which are also my favourite.
 
 ### 💀 LevelledMobs
 * Ever felt mobs in Minecraft were too easy? Want to add an extra RPG feel to your server with very little effort? LevelledMobs is the way to go!
+* Developed by the LM team - @stumper66, @UltimaOath and I
 * [SpigotMC](https://www.spigotmc.org/resources/levelledmobs.74304/) or [GitHub](https://github.com/lokka30/LevelledMobs)
 
 ### 🌏 PhantomWorlds
