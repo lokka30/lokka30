@@ -1,5 +1,4 @@
 # Hi, I'm lokka30 👋
-I like to program open source plugins for Minecraft servers in my free time.
 
 Here's an organised list of repositories I actively maintain:
 
