@@ -54,8 +54,12 @@ These are resources that plugin developers can use to (hopefully) enhance their 
 ## 🏗️ Work in Progress
 I'm gradually working on these shiny new resources. Expect to see them on Spigot in the future 😉
 
+### 💰 NanoEconomy
+* A more basic economy provider alternative to ElementalEconomy with limited features, intended for smaller servers.
+* [GitHub](https://github.com/lokka30/NanoEconomy)
+
 ### 💰 ElementalEconomy
-* A successor to my old Economy plugin, PhantomEconomy - but with *far* better execution.
+* A direct successor to my old Economy plugin, PhantomEconomy - but with *far* better execution.
 * [GitHub](https://github.com/lokka30/ElementalEconomy)
 
 ### 🖼️ ElementalMenus
