@@ -13,13 +13,13 @@ Here are some of my more popular resources which are also my favourite.
 * [SpigotMC](https://www.spigotmc.org/resources/levelledmobs.74304/) or [GitHub](https://github.com/lokka30/LevelledMobs)
 
 ### 💰 ElementalEconomy
-* **In development, not released.**
+* **Work in progress, not released.**
 * The ultimate core to your server's virtual economy.
 * Successor to my older plugin, PhantomEconomy.
 * [GitHub](https://github.com/lokka30/ElementalEconomy)
 
 ### 💼 Treasury
-* **In development, not released.**
+* **Work in progress, not released.**
 * A library containing useful APIs, especially for economy plugins.
 * [GitHub](https://github.com/lokka30/Treasury)
 
@@ -44,9 +44,6 @@ Here are some of my more popular resources which are also my favourite.
 * The most lightweight, bulletproof solution on SpigotMC
 * [SpigotMC](https://www.spigotmc.org/resources/sleepfixer.76746/) or [GitHub](https://github.com/lokka30/SleepFixer)
 
-## Other Plugins
-I work on these plugins, but they receive very low demand, and therefore few updates.
-
 ### 📈 OnlineRecord
 * Logs and announces when you beat your record of online players.
 * [SpigotMC](https://www.spigotmc.org/resources/onlinerecord.87390/) or [GitHub](https://github.com/lokka30/OnlineRecord)
@@ -55,17 +52,12 @@ I work on these plugins, but they receive very low demand, and therefore few upd
 * Blocks users from entering beds - used to enhance hardcore survival servers.
 * [SpigotMC](https://www.spigotmc.org/resources/beddefender.84183/) or [GitHub](https://github.com/lokka30/BedDefender)
 
-## Libraries
-These are resources that plugin developers can use to (hopefully) enhance their plugins.
-
 ### 🌠 MicroLib
 * A small collection of Java code that I use in most of my plugins. I've designed it so other people can easily use it as well :)
 * [SpigotMC](https://www.spigotmc.org/resources/microlib.84017/) or [GitHub](https://github.com/lokka30/MicroLib)
 
-## 🏗️ Work in Progress
-I'm gradually working on these shiny new resources. Expect to see them on Spigot in the future 😉
-
 ### 🖼️ ElementalMenus
+* **Work in progress, not released.**
 * A GUI/Menu creation plugin that makes it super easy to create menus, without sacrificing great features.
 * [GitHub](https://github.com/lokka30/ElementalMenus)
 
