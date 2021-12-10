@@ -12,6 +12,17 @@ Here are some of my more popular resources which are also my favourite.
 * Developed by the LM team - @stumper66, @UltimaOath and I
 * [SpigotMC](https://www.spigotmc.org/resources/levelledmobs.74304/) or [GitHub](https://github.com/lokka30/LevelledMobs)
 
+### 💰 ElementalEconomy
+* **In development, not released.**
+* The ultimate core to your server's virtual economy.
+* Successor to my older plugin, PhantomEconomy.
+* [GitHub](https://github.com/lokka30/ElementalEconomy)
+
+### 💼 Treasury
+* **In development, not released.**
+* A library containing useful APIs, especially for economy plugins.
+* [GitHub](https://github.com/lokka30/Treasury)
+
 ### 🌏 PhantomWorlds
 * Finally - a robust, lightweight world management solution.
 * [SpigotMC](https://www.spigotmc.org/resources/phantomworlds.84099/) or [GitHub](https://github.com/lokka30/PhantomWorlds)
@@ -53,14 +64,6 @@ These are resources that plugin developers can use to (hopefully) enhance their 
 
 ## 🏗️ Work in Progress
 I'm gradually working on these shiny new resources. Expect to see them on Spigot in the future 😉
-
-### 💰 NanoEconomy
-* A more basic economy provider alternative to ElementalEconomy with limited features, intended for smaller servers.
-* [GitHub](https://github.com/lokka30/NanoEconomy)
-
-### 💰 ElementalEconomy
-* A direct successor to my old Economy plugin, PhantomEconomy - but with *far* better execution.
-* [GitHub](https://github.com/lokka30/ElementalEconomy)
 
 ### 🖼️ ElementalMenus
 * A GUI/Menu creation plugin that makes it super easy to create menus, without sacrificing great features.
