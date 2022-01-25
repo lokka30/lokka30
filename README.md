@@ -1,7 +1,3 @@
-Hey, I'm a Hobbyist Java software developer.
-
-***
-
 # Minecraft Plugins
 
 Run a Minecraft server? You might be interested in some of my resources! Here are my favourites:
