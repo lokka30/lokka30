@@ -14,11 +14,11 @@ Run a Minecraft server? You might be interested in some of my resources! Here ar
 > 
 > A multi-platform plugin that offers modern APIs to allow for brilliant integration between plugins. Featuring an Economy API and more planned for the future!
 > 
-> SpigotMC (N/A) - [GitHub](https://github.com/lokka30/Treasury)
+> [SpigotMC](https://www.spigotmc.org/resources/treasury.99531/) - [GitHub](https://github.com/lokka30/Treasury)
 
-➡️ **...check out my [SpigotMC Resources page]() to view more.** (I'm also working on some unreleased plugins too!)
+➡️ **...check out my [SpigotMC Resources list page](https://www.spigotmc.org/resources/authors/lokka30.828699/) to view more.** (I'm also working on some yet-to-be-released plugins too!)
 
-➡️ **Join the [ArcanePlugins Discord Server]() if you would like to chat about any of my Minecraft resources.** 😃
+➡️ **Join the [ArcanePlugins Discord Server](https://www.discord.io/arcaneplugins) if you would like to chat about any of my Minecraft resources.** 😃
 
 ***
 
