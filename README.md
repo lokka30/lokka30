@@ -4,11 +4,15 @@ I'm a cyber security student and hobbyist software developer from Western Austra
 
 Experience:
 
-![](https://img.shields.io/badge/lang-Java-blue) ![](https://img.shields.io/badge/lang-HTML-blue) ![](https://img.shields.io/badge/lang-CSS-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/database-SQLite-yellow) ![](https://img.shields.io/badge/database-MySQL-yellow) ![](https://img.shields.io/badge/engine-Unity3D-yellow) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-VSCode-purple) ![](https://img.shields.io/badge/OS-Windows-green) ![](https://img.shields.io/badge/OS-macOS-green) ![](https://img.shields.io/badge/OS-Ubuntu-green)
+![](https://img.shields.io/badge/lang-Java-blue) ![](https://img.shields.io/badge/lang-HTML-blue) ![](https://img.shields.io/badge/lang-CSS-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/api-Bukkit-orange) ![](https://img.shields.io/badge/api-BungeeCord-orange) ![](https://img.shields.io/badge/db-SQLite-yellow) ![](https://img.shields.io/badge/db-MySQL-yellow) ![](https://img.shields.io/badge/engine-Unity3D-yellow) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-Visual_Studio_Code-purple) ![](https://img.shields.io/badge/OS-Windows_10-green) ![](https://img.shields.io/badge/OS-macOS_Monterey-green)
 
-Learning:
+Learning / Future Interests:
 
-![](https://img.shields.io/badge/lang-C-blue) ![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-JavaScript-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-Rust-blue) ![](https://img.shields.io/badge/runtime-Node.JS-yellow)  ![](https://img.shields.io/badge/editor-PyCharm-purple)
+![](https://img.shields.io/badge/lang-C-blue) ![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-JavaScript-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-Rust-blue) ![](https://img.shields.io/badge/lang-Lua-blue) ![](https://img.shields.io/badge/shell-Bash-blue) ![](https://img.shields.io/badge/runtime-Node.JS-orange) ![](https://img.shields.io/badge/api-Velocity-orange) ![](https://img.shields.io/badge/api-Minestom-orange) ![](https://img.shields.io/badge/api-KryptonMC-orange) ![](https://img.shields.io/badge/api-JDA-orange) ![](https://img.shields.io/badge/editor-PyCharm-purple) ![](https://img.shields.io/badge/OS-Ubuntu-green) ![](https://img.shields.io/badge/OS-Oracle_Linux-green) ![](https://img.shields.io/badge/OS-AlmaLinux-green)
+
+Favourite Games:
+
+![](https://img.shields.io/badge/game-Minecraft:_Java_Edition_v1.18-pink) ![](https://img.shields.io/badge/game-Team_Fortress_2-pink) ![](https://img.shields.io/badge/game-Age_of_Empires_II-pink) ![](https://img.shields.io/badge/game-Sid_Meiers_Civilization_V-pink)
 
 ***
 
