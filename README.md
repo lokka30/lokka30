@@ -4,7 +4,7 @@ I'm a cyber security student and hobbyist software developer from Western Austra
 
 Experience:
 
-![](https://img.shields.io/badge/lang-Java-blue) ![](https://img.shields.io/badge/lang-HTML-blue) ![](https://img.shields.io/badge/lang-CSS-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/database-SQLite-yellow) ![](https://img.shields.io/badge/database-MySQL-yellow) ![](https://img.shields.io/badge/engine-Unity3D-yellow) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-VSCode-purple) ![](https://img.shields.io/badge/OS-Windows 10-green) ![](https://img.shields.io/badge/OS-macOS-green) ![](https://img.shields.io/badge/OS-Ubuntu-green)
+![](https://img.shields.io/badge/lang-Java-blue) ![](https://img.shields.io/badge/lang-HTML-blue) ![](https://img.shields.io/badge/lang-CSS-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/database-SQLite-yellow) ![](https://img.shields.io/badge/database-MySQL-yellow) ![](https://img.shields.io/badge/engine-Unity3D-yellow) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-VSCode-purple) ![](https://img.shields.io/badge/OS-Windows-green) ![](https://img.shields.io/badge/OS-macOS-green) ![](https://img.shields.io/badge/OS-Ubuntu-green)
 
 Learning:
 
