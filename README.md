@@ -6,11 +6,11 @@ I'm a cyber security student and hobbyist software developer from Western Austra
 
 ## Current:
 
-![](https://img.shields.io/badge/lang-Java_17-blue) ![](https://img.shields.io/badge/lang-HTML_5-blue) ![](https://img.shields.io/badge/lang-CSS_3-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/api-Bukkit_1.18-orange) ![](https://img.shields.io/badge/api-BungeeCord-orange) ![](https://img.shields.io/badge/db-SQLite-yellow) ![](https://img.shields.io/badge/db-MySQL-yellow) ![](https://img.shields.io/badge/engine-Unity3D-yellow) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-Visual_Studio_Code-purple) ![](https://img.shields.io/badge/OS-Windows_10-green) ![](https://img.shields.io/badge/OS-macOS_Monterey-green)
+![](https://img.shields.io/badge/lang-Java_17-blue) ![](https://img.shields.io/badge/lang-HTML_5-blue) ![](https://img.shields.io/badge/lang-CSS_3-blue) ![](https://img.shields.io/badge/api-Bukkit_1.18-orange) ![](https://img.shields.io/badge/editor-IntelliJ-purple) ![](https://img.shields.io/badge/editor-Visual_Studio_Code-purple) ![](https://img.shields.io/badge/OS-Windows_10-green) ![](https://img.shields.io/badge/OS-macOS_Monterey-green)
 
 ## Learning:
 
-![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/shell-Bash-blue) ![](https://img.shields.io/badge/editor-PyCharm-purple)
+![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/shell-Bash-blue) ![](https://img.shields.io/badge/api-BungeeCord-orange) ![](https://img.shields.io/badge/db-SQLite-yellow) ![](https://img.shields.io/badge/db-MySQL-yellow) ![](https://img.shields.io/badge/editor-PyCharm-purple)
 
 ## Future Interests:
 
