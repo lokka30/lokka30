@@ -10,11 +10,11 @@ I'm a cyber security student and hobbyist software developer from Western Austra
 
 ## Learning:
 
-![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/shell-Bash-blue) ![](https://img.shields.io/badge/api-BungeeCord-orange) ![](https://img.shields.io/badge/db-SQLite-yellow) ![](https://img.shields.io/badge/db-MySQL-yellow) ![](https://img.shields.io/badge/editor-PyCharm-purple)
+![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/shell-Bash-blue) ![](https://img.shields.io/badge/api-Velocity-orange) ![](https://img.shields.io/badge/api-BungeeCord-orange) ![](https://img.shields.io/badge/db-SQLite-yellow) ![](https://img.shields.io/badge/db-MySQL-yellow) ![](https://img.shields.io/badge/editor-PyCharm-purple)
 
 ## Future Interests:
 
-![](https://img.shields.io/badge/lang-C-blue) ![](https://img.shields.io/badge/lang-TypeScript-blue) ![](https://img.shields.io/badge/lang-Lua-blue) ![](https://img.shields.io/badge/runtime-Node.JS-orange) ![](https://img.shields.io/badge/api-Velocity-orange) ![](https://img.shields.io/badge/api-JDA-orange) ![](https://img.shields.io/badge/OS-Oracle_Linux-green) ![](https://img.shields.io/badge/OS-AlmaLinux-green)
+![](https://img.shields.io/badge/lang-C-blue) ![](https://img.shields.io/badge/lang-TypeScript-blue) ![](https://img.shields.io/badge/lang-Lua-blue) ![](https://img.shields.io/badge/runtime-Node.JS-orange) ![](https://img.shields.io/badge/api-JDA-orange) ![](https://img.shields.io/badge/OS-Oracle_Linux-green) ![](https://img.shields.io/badge/OS-AlmaLinux-green)
 
 Favourite Games:
 
