@@ -14,12 +14,10 @@ Interests:
 
 My favourite games:
 
-![](https://img.shields.io/badge/game-Minecraft:_Java_Edition_1.18-pink) ![](https://img.shields.io/badge/game-Team_Fortress_2-pink) ![](https://img.shields.io/badge/game-Age_of_Empires_II-pink) ![](https://img.shields.io/badge/game-Sid_Meiers_Civilization_V-pink)
+![](https://img.shields.io/badge/game-Team_Fortress_2-pink) ![](https://img.shields.io/badge/game-Age_of_Empires_II-pink) ![](https://img.shields.io/badge/game-Sid_Meiers_Civilization_V-pink) ![](https://img.shields.io/badge/game-Minecraft:_Java_Edition_1.18-pink)
 
 Some statistics:
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=lokka30&theme=react&layout=compact)
 
 ![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact)
-
-Have a good one :)
