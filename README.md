@@ -1,4 +1,4 @@
-Hi, I'm a student currently studying Cyber Security. In my spare time I usually work on some hobby projects, some of which ends up here. I mostly create open-source game modifications - usually Minecraft server plugins - but I also work on various other software such as discord bots and mini-projects to learn more about the programming languages I have interests in.
+Hi, I'm a student currently studying Cyber Security. In my spare time I usually work on some hobby projects, some of which ends up here. I mostly create open-source game modifications - usually Minecraft server plugins - but I also work on various other software such as discord bots and mini-projects to learn more about the programming languages I'm interested in.
 
 Most of my programming experience is with Java, though I'm not very pleased with it. Rust and C++ seem appealing, so I'm gradually trying to learn these languages in hopes to replace my usage of Java wherever feasible.
 
