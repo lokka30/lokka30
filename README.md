@@ -1,6 +1,6 @@
 Hi, I'm a student currently studying Cyber Security. In my spare time I usually work on some hobby projects, some of which ends up here. I mostly create open-source game modifications - usually Minecraft server plugins - but I also work on various other software such as discord bots and mini-projects to learn more about the programming languages I'm interested in.
 
-Most of my programming experience is with Java, though I'm not very pleased with it. I'm gradually trying to learn other languages to find alternatives and expand my toolset.
+Most of my programming experience is with Java. I'm gradually trying to learn other languages to expand my toolset, such as Kotlin, which I hope can solve Java's issue of 'taking a long time to make something useful'.
 
 ***
 
