@@ -10,7 +10,7 @@ Experience (not exhaustive):
 
 Interests:
 
-![](https://img.shields.io/badge/lang-Kotlin-blue) ![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-PHP-blue) ![](https://img.shields.io/badge/lang-Shell_Script-blue) ![](https://img.shields.io/badge/api-Velocity-orange) ![](https://img.shields.io/badge/api-Java_Discord_API-orange) ![](https://img.shields.io/badge/os-Arch_Linux-green) ![](https://img.shields.io/badge/os-Alma_Linux-green) ![](https://img.shields.io/badge/os-Oracle_Linux-green)
+![](https://img.shields.io/badge/lang-Kotlin-blue) ![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-PHP-blue) ![](https://img.shields.io/badge/lang-bash-blue) ![](https://img.shields.io/badge/api-Velocity-orange) ![](https://img.shields.io/badge/api-Java_Discord_API-orange) ![](https://img.shields.io/badge/os-Arch_Linux-green) ![](https://img.shields.io/badge/os-Alma_Linux-green)
 
 I don't play games much anymore, anyhow, here are my current favourites:
 
