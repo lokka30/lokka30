@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome</h1>
+<h1>Hi 👋</h1>
 <p>I'm a student studying Cyber Security. I work on my hobby projects in my spare time - most of them have their own repository here. :)</p>
 
 <br /> <br />
