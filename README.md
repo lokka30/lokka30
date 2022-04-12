@@ -42,9 +42,10 @@
 <br /> <br />
 
 <h1>Favourite Games</h1>
-<p><i>I don't play games much anymore, anyhow, here are my current favourites.</i></p>
+  
+(ordered)
 
-![](https://img.shields.io/badge/game-Team_Fortress_2-pink) ![](https://img.shields.io/badge/game-Age_of_Empires_II-pink) ![](https://img.shields.io/badge/game-Sid_Meiers_Civilization_V-pink) ![](https://img.shields.io/badge/game-Minecraft:_Java_Edition_1.18-pink) ![](https://img.shields.io/badge/game-Grand_Theft_Auto_V-pink) ![](https://img.shields.io/badge/game-ARK:_Survival_Evolved-pink) ![](https://img.shields.io/badge/game-Ace_of_Spades_Classic-pink) ![](https://img.shields.io/badge/game-Hearts_of_Iron_IV-pink) ![](https://img.shields.io/badge/game-SimCity_5-pink) 
+![](https://img.shields.io/badge/game-Team_Fortress_2-pink) ![](https://img.shields.io/badge/game-Age_of_Empires_II-pink) ![](https://img.shields.io/badge/game-Minecraft:_Java_Edition_1.18-pink) ![](https://img.shields.io/badge/game-Sid_Meiers_Civilization_V-pink) ![](https://img.shields.io/badge/game-Grand_Theft_Auto_V-pink) ![](https://img.shields.io/badge/game-ARK:_Survival_Evolved-pink) ![](https://img.shields.io/badge/game-Hearts_of_Iron_IV-pink) ![](https://img.shields.io/badge/game-SimCity_5-pink) ![](https://img.shields.io/badge/game-Ace_of_Spades_Classic-pink) 
 
 <br /> <br />
   
