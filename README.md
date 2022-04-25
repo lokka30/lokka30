@@ -19,6 +19,7 @@
 > ⏰
 > 
 > ![](https://img.shields.io/badge/lang-Kotlin-blue)
+> ![](https://img.shields.io/badge/lang-C-blue)
 ![](https://img.shields.io/badge/lang-C++-blue)
 ![](https://img.shields.io/badge/lang-TypeScript-blue)
 
