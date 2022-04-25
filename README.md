@@ -14,12 +14,11 @@
 ![](https://img.shields.io/badge/editor-PyCharm-purple)
 ![](https://img.shields.io/badge/os-macOS-green)
 ![](https://img.shields.io/badge/os-Debian-green)
-![](https://img.shields.io/badge/os-Arch_Linux-green)
 
 > ⏰
 > 
 > ![](https://img.shields.io/badge/lang-Kotlin-blue)
-> ![](https://img.shields.io/badge/lang-C-blue)
+![](https://img.shields.io/badge/lang-C-blue)
 ![](https://img.shields.io/badge/lang-C++-blue)
 ![](https://img.shields.io/badge/lang-TypeScript-blue)
 
