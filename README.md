@@ -18,8 +18,7 @@
 > ⏰
 > 
 > ![](https://img.shields.io/badge/lang-Kotlin-blue)
-![](https://img.shields.io/badge/lang-C-blue)
-![](https://img.shields.io/badge/lang-C++-blue)
+![](https://img.shields.io/badge/lang-Rust-blue)
 ![](https://img.shields.io/badge/lang-TypeScript-blue)
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=lokka30&theme=react&layout=compact)
