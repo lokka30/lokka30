@@ -4,24 +4,23 @@ Hi! I'm a Cyber Security student, doing software development on the side. I enjo
 
 #### ✅ Current toolset
 
-> ![](https://img.shields.io/badge/lang-Java-blue)
+> ![](https://img.shields.io/badge/lang-Kotlin-blue)
+![](https://img.shields.io/badge/lang-Java-blue)
 ![](https://img.shields.io/badge/lang-Python-blue)
-![](https://img.shields.io/badge/lang-HTML-blue)
-![](https://img.shields.io/badge/lang-CSS-blue)
 ![](https://img.shields.io/badge/lang-bash-blue)
 ![](https://img.shields.io/badge/lang-SQL-blue)
 ![](https://img.shields.io/badge/platform-Bukkit-orange)
-![](https://img.shields.io/badge/platform-Java_Discord_API-orange)
+![](https://img.shields.io/badge/platform-JDA-orange)
 ![](https://img.shields.io/badge/editor-Visual_Studio_Code-purple)
-![](https://img.shields.io/badge/editor-Neovim-purple)
 ![](https://img.shields.io/badge/editor-IntelliJ_IDEA-purple)
 ![](https://img.shields.io/badge/editor-PyCharm-purple)
+![](https://img.shields.io/badge/editor-Neovim-purple)
 ![](https://img.shields.io/badge/os-macOS-green)
-![](https://img.shields.io/badge/os-Manjaro-green)
+![](https://img.shields.io/badge/os-Manjaro_i3-green)
 
 #### ⏰ Interests for the future
 
-> ![](https://img.shields.io/badge/lang-Kotlin-blue)
+> ![](https://img.shields.io/badge/lang-C++-blue)
 
 <br />
 
