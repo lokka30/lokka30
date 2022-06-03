@@ -16,7 +16,7 @@ Hi! I'm a Cyber Security student, doing software development on the side. I enjo
 ![](https://img.shields.io/badge/editor-PyCharm-purple)
 ![](https://img.shields.io/badge/editor-Neovim-purple)
 ![](https://img.shields.io/badge/os-macOS-green)
-![](https://img.shields.io/badge/os-Manjaro_i3-green)
+![](https://img.shields.io/badge/os-Manjaro_XFCE-green)
 
 #### ⏰ Interests for the future
 
