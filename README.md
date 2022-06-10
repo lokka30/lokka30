@@ -4,13 +4,13 @@ Hi! I'm a Cyber Security student, doing software development on the side. I enjo
 
 #### ✅ Current toolset
 
-> ![](https://img.shields.io/badge/lang-Kotlin-blue)
-![](https://img.shields.io/badge/lang-Java-blue)
+> ![](https://img.shields.io/badge/lang-Java-blue)
+![](https://img.shields.io/badge/lang-Kotlin-blue)
 ![](https://img.shields.io/badge/lang-Python-blue)
 ![](https://img.shields.io/badge/lang-bash-blue)
 ![](https://img.shields.io/badge/lang-SQL-blue)
-![](https://img.shields.io/badge/platform-Bukkit-orange)
-![](https://img.shields.io/badge/platform-JDA-orange)
+![](https://img.shields.io/badge/lib-Bukkit-orange)
+![](https://img.shields.io/badge/lib-JDA-orange)
 ![](https://img.shields.io/badge/editor-Visual_Studio_Code-purple)
 ![](https://img.shields.io/badge/editor-IntelliJ_IDEA-purple)
 ![](https://img.shields.io/badge/editor-PyCharm-purple)
@@ -21,6 +21,8 @@ Hi! I'm a Cyber Security student, doing software development on the side. I enjo
 #### ⏰ Interests for the future
 
 > ![](https://img.shields.io/badge/lang-C++-blue)
+![](https://img.shields.io/badge/lang-PHP-blue)
+![](https://img.shields.io/badge/lib-ImGui-orange)
 
 <br />
 
