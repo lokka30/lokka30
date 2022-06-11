@@ -1,4 +1,4 @@
-Hi! I'm a Cyber Security student, doing software development on the side. I enjoy creating [libre](https://www.gnu.org/philosophy/free-sw.en.html) modifications/plugins for games, primarily for the [Spigot](https://www.spigotmc.org/resources/authors/lokka30.828699/) platform. Inherently, a massive proportion of my software is written in Java.
+Hi! I'm a Cyber Security student, doing software development on the side. I enjoy creating [libre](https://www.gnu.org/philosophy/free-sw.en.html) modifications/plugins for games, primarily for the [Spigot](https://www.spigotmc.org/resources/authors/lokka30.828699/) platform. My favourite language is Java, though I am yet to properly explore some other interesting languages such as Rust, C++, Go, and PHP.
 
 <br />
 
@@ -20,7 +20,9 @@ Hi! I'm a Cyber Security student, doing software development on the side. I enjo
 #### ⏰ Interests for the future
 
 > ![C++](https://img.shields.io/badge/lang-C++-blue)
+![Rust](https://img.shields.io/badge/lang-C++-blue)
 ![PHP](https://img.shields.io/badge/lang-PHP-blue)
+![Go](https://img.shields.io/badge/lang-C++-blue)
 ![ImGui](https://img.shields.io/badge/lib-ImGui-orange)
 
 <br />
