@@ -1,6 +1,6 @@
 <div align="center">
 
-Cyber-Security student from Western Australia. Writing [libre](https://www.gnu.org/philosophy/free-sw.en.html) Java software in my free time - mostly [Spigot-API plugins](https://www.spigotmc.org/resources/authors/lokka30.828699/). Keen on learning other interesting languages and technologies in the computer science world.
+Cyber-Security student from Western Australia. Writing [libre](https://www.gnu.org/philosophy/free-sw.en.html) Java software in my free time, mostly [Spigot-API plugins](https://www.spigotmc.org/resources/authors/lokka30.828699/). Keen on learning other interesting languages and technologies in the computer science world.
 
 <br />
 <br />
