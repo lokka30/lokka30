@@ -6,7 +6,6 @@ Cyber-Security student from Western Australia. Writing [libre](https://www.gnu.o
 <br />
   
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=lokka30&theme=react&layout=compact&show_icons=true)
-  
 ![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)
  
 <br />
