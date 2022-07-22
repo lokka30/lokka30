@@ -2,7 +2,7 @@
 
 Hi! I'm a cyber-security student from Western Australia. In my spare time, I enjoy writing [libre](https://www.gnu.org/philosophy/free-sw.en.html) software, mostly Java [plugins](https://www.spigotmc.org/resources/authors/lokka30.828699/) for [Spigot](https://spigotmc.org/)/[Paper](https://papermc.io/) servers. I'm always interested in exploring the vast worlds of computer science and security. :)
 
-Aside from the **~50** current + planned Java plugins I wish to complete at some point, I am trying to learn new languages such as JavaScript, C# and Bash so I am able to accomplish more of my ideas. I am also studying database management, so I plan on putting this knowledge to use soon™️.
+Aside from the **~50** current + planned Java plugins I wish to complete at some point, I'm learning new languages such as JavaScript, C# and Bash, so I am able to execute more of my ideas. I'm also studying database management, so I plan on putting this knowledge to use soon™️.
 
 <br />
 <br />
