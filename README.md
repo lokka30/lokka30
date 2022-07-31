@@ -2,7 +2,7 @@
 
 # Hi!
 
-I'm Lachlan, an Australian student studying cyber-security and computer science. I write and contribute to various [libre][6] software projects, striving to create a series of high quality projects that respect your freedoms as a software user. As you may tell from the repositories I've uploaded, I write a good proportion of my software in Java :wink:. I'm gradually learning various other programming languages so that I am able to convert more of my ideas into reality.
+I'm Lachlan, an Australian student studying cyber-security and computer science. I write and contribute to various [libre][6] software projects, striving to create a series of high quality projects that assert your user freedoms thanks to licenses such as the [GPL][8]. As you may tell from the repositories I've uploaded, I write a good proportion of my software in Java :wink:. I'm gradually learning various other programming languages so that I am able to convert more of my ideas into reality.
 
 <br /><br /><br />
 
@@ -51,3 +51,4 @@ If this does not apply, you may [e-mail me](mailto:lokka30@protonmail.com).
 [5]: https://github.com/piqueserver
 [6]: https://www.gnu.org/philosophy/free-sw.en.html
 [7]: https://github.com/SpadesX
+[8]: https://www.gnu.org/licenses/gpl-3.0.en.html
