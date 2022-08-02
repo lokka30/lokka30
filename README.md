@@ -2,7 +2,7 @@
 
 # Hi!
 
-I'm Lachlan, an Australian student studying cyber-security and computer science. I write and contribute to various [libre][6] software projects, striving to create a series of high quality projects that assert your user freedoms thanks to licenses such as the [GPL][8]. As you may tell from the repositories I've uploaded, I write a good proportion of my software in Java :wink:. I'm gradually learning various other programming languages so that I am able to convert more of my ideas into reality.
+I'm Lachlan, an Australian student studying cyber-security and computer science. I write and contribute to various [libre][6] software projects, striving to create a series of high quality projects that assert your user freedoms thanks to licenses such as the [GPL][8]. As you *may* tell from the repositories I've uploaded, I write a good proportion of my software in Java. I'm gradually learning various other programming languages so that I am able to convert more of my ideas into reality.
 
 <br /><br /><br />
 
