@@ -2,7 +2,7 @@
 
 # Hi!
 
-I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I write and contribute towards various [libre software (aka FOSS)][6] projects, as I am an advocate for software that respects user freedoms. Most of my work is written in Java, though I work on learning other programming languages so that I am able to convert more of my ideas into reality.
+I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I write and contribute towards various [libre software (aka FOSS)][6] projects, as I am an advocate for software that respects user freedoms. Most of my code is written in Java, though I'm working on learning other programming languages so that I am able to convert more of my ideas into reality.
 
 <br /><br /><br />
 
