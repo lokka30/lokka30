@@ -2,7 +2,7 @@
 
 # Hi!
 
-I'm Lachlan, an Australian student studying cyber-security and computer science. I write and contribute to various [libre][6] software projects, striving to create a series of high quality projects that assert your user freedoms thanks to licenses such as the [GPL][8]. As you *may* tell from the repositories I've uploaded, I write a good proportion of my software in Java. I'm gradually learning various other programming languages so that I am able to convert more of my ideas into reality.
+I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I write and contribute towards various [libre software (aka FOSS)][6] projects, as I am an advocate for software that respects user freedoms. Most of my work is written in Java, though I work on learning other programming languages so that I am able to convert more of my ideas into reality.
 
 <br /><br /><br />
 
@@ -10,7 +10,7 @@ I'm Lachlan, an Australian student studying cyber-security and computer science.
 
 ### Minecraft
 
-I maintain a variety of **[plugins][1]** for [PaperMC][2] and [SpigotMC][3] servers. I have approximately **50** additional projects which I wish to contribute to the community, though I am already having a hard time maintaining the current handful.. :smile:
+I maintain a variety of **[plugins][1]** for [PaperMC][2]/[SpigotMC][3] servers. I have approximately ***50*** additional projects which I wish to contribute to the community, though I am already having a hard time maintaining the current handful. :smile:
 
 [![LevelledMobs Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
 [![Treasury Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
@@ -19,7 +19,7 @@ I maintain a variety of **[plugins][1]** for [PaperMC][2] and [SpigotMC][3] serv
 
 ### Ace of Spades Classic
 
-I'm currently contributing to [piqueserver][5] and [SpadesX][7]. I also plan on writing scripts/plugins for these servers.
+I'm currently contributing to [piqueserver][5] and [SpadesX][7]. I also plan on writing scripts/plugins/mods/addons for these servers.
 
 [![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
 [![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
