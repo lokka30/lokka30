@@ -2,31 +2,34 @@
 
 # Hi!
 
-I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I write and contribute towards various [libre software (aka FOSS)][6] projects, as I am an advocate for software that respects user freedoms. Most of my code is written in Java, though I'm working on learning other programming languages so that I am able to convert more of my ideas into reality.
+I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I create and contribute towards various [libre software (aka FOSS)][6] projects, as I wish to support these communities. I write Java, Python, C# and SQL, along with a little bit of C++, JavaScript and CSS.
 
-<br /><br /><br />
+<br /><br />
 
-## Main Projects
+## Minecraft Projects
 
-### Minecraft
-
-I maintain a variety of **[plugins][1]** for [PaperMC][2]/[SpigotMC][3] servers. I have approximately ***50*** additional projects which I wish to contribute to the community, though I am already having a hard time maintaining the current handful. :smile:
+I am the director of [**ArcanePlugins**](https://github.com/ArcanePlugins), an organisation dedicated to releasing high-quality, free, and libre software for [PaperMC][2]/[SpigotMC][3] servers. Here are a few projects of ours:
 
 [![LevelledMobs Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
+
 [![Treasury Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
 
-<br />
+### [(Click here to see the rest!)](https://github.com/ArcanePlugins)
 
-### Ace of Spades Classic
+I also develop [a bunch of smaller plugins][1], such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds).
 
-I'm currently contributing to [piqueserver][5] and [SpadesX][7]. I also plan on writing scripts/plugins/mods/addons for these servers.
+<br /><br />
+
+## Ace of Spades Classic
+
+I'm currently contributing to [piqueserver][5] and [SpadesX][7]. I plan on writing plugins for SpadesX once they have an API. 
 
 [![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
 [![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
 
 <br /><br /><br />
 
-## GitHub Stats
+## Fancy Stats
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=lokka30&theme=react&layout=compact&show_icons=true)
 
