@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi!
+# Hi! 👋
   
 I'm Lachlan, an Australian Cyber Security student. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
 
@@ -14,7 +14,7 @@ Most of my projects are within my development organisation, [**ArcanePlugins**](
   
 [![Treasury](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
 
-### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins)
+### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins) 👈
 
 I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually small plugins such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds).
 
