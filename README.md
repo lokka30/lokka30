@@ -1,28 +1,27 @@
 <div align="center">
 
 # Hi!
-
-I'm Lachlan, an Australian student studying Computer Science and Cyber Security. I create and contribute towards various [libre software (aka FOSS)][6] projects, as I wish to support these communities.
+  
+I'm Lachlan, an Australian Cyber Security student. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
 
 <br /><br />
 
 ## Minecraft Projects
+  
+Most of my projects are within my development organisation, [**ArcanePlugins**](https://github.com/ArcanePlugins). The aim of ArcanePlugins is to release and maintain high-quality freedom-respecting and gratis software for Minecraft server software such as [PaperMC][2] and [SpigotMC][3]. Here are two of our projects which you may find useful:
 
-I am the director of [**ArcanePlugins**](https://github.com/ArcanePlugins), an organisation dedicated to releasing high-quality, free, and libre software for [PaperMC][2]/[SpigotMC][3] servers. Here are a few projects of ours:
+[![LevelledMobs](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
+[![Treasury](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
 
-[![LevelledMobs Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
+### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins)
 
-[![Treasury Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
-
-### [(Click here to see the rest!)](https://github.com/ArcanePlugins)
-
-I also develop [a bunch of smaller plugins][1], such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds).
+I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually small plugins such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds).
 
 <br /><br />
 
-## Ace of Spades Classic
+## Ace of Spades
 
-I'm currently contributing to [piqueserver][5] and [SpadesX][7]. I plan on writing plugins for SpadesX once they have an API. 
+I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writing plugins for SpadesX once they have an API. 
 
 [![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
 [![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
