@@ -11,6 +11,7 @@ I'm Lachlan, an Australian Cyber Security student. In my spare time, I create an
 Most of my projects are within my development organisation, [**ArcanePlugins**](https://github.com/ArcanePlugins). The aim of ArcanePlugins is to release and maintain high-quality freedom-respecting and gratis software for Minecraft server software such as [PaperMC][2] and [SpigotMC][3]. Here are two of our projects which you may find useful:
 
 [![LevelledMobs](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
+  
 [![Treasury](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
 
 ### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins)
@@ -24,6 +25,7 @@ I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually
 I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writing plugins for SpadesX once they have an API. 
 
 [![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
+  
 [![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
 
 <br /><br /><br />
