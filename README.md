@@ -1,7 +1,4 @@
 <div align="center">
-  
-![generic stats](https://github-readme-stats.vercel.app/api/?username=lokka30&theme=react&layout=compact&show_icons=true)
-![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)
 
 # Hi!
   
@@ -38,6 +35,10 @@ I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writi
 If you wish to contact me regarding a specific repository of mine, please check if I have listed any 'preferred' contact methods on the `README.md` file, such as a Discord guild or forum message link.
 
 If this does not apply, you may [e-mail me](mailto:lokka30@protonmail.com).
+  
+<br /><br /><br />
+  
+![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)
 
 </div>
 
