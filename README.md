@@ -2,11 +2,11 @@
 
 # Hi!
   
-I'm Lachlan, an Australian Cyber Security student. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
+I'm Lachlan, an Australian Cyber Security student. I'm passionate for the vast world of Computer Science. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
 
 <br /><br />
 
-## Minecraft Projects
+## 🧱 Minecraft Projects
   
 Most of my projects are within my development organisation, [**ArcanePlugins**](https://github.com/ArcanePlugins). The aim of ArcanePlugins is to release and maintain high-quality freedom-respecting and gratis software for Minecraft server software such as [PaperMC][2] and [SpigotMC][3]. Here are two of our projects which you may find useful:
 
@@ -20,7 +20,7 @@ I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually
 
 <br /><br />
 
-## Ace of Spades
+## ♠️ Ace of Spades
 
 I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writing plugins for SpadesX once they have an API. 
 
