@@ -8,7 +8,7 @@ I write my software in Java, Python, SQL, and Kotlin, and I am currently learnin
 
 <br /><br />
 
-## ⛏️ Minecraft Projects ⛏️
+## PaperMC Projects
   
 Most of my projects are within my development organisation, [**ArcanePlugins**](https://github.com/ArcanePlugins). The aim of ArcanePlugins is to release and maintain high-quality freedom-respecting and gratis software for Minecraft server software such as [PaperMC][2] and [SpigotMC][3]. Here are two of our projects which you may find useful:
 
@@ -22,7 +22,7 @@ I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually
 
 <br /><br />
 
-## ♠️ Ace of Spades ♠️
+## Ace of Spades Projects
 
 I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writing plugins for SpadesX once they have an API. 
 
