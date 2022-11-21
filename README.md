@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! 👋
+# Hi!
   
 I'm Lachlan, an Australian Cyber Security student. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
 
