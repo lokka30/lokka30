@@ -4,7 +4,9 @@
   
 I'm Lachlan, an Australian Cyber Security student. I'm passionate for the vast world of Computer Science. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
   
-I write my software in Java, Python, SQL, and Kotlin, and I am currently learning C, C++, JavaScript, C#, and PHP.
+Current Languages: Java • Python • Kotlin • SQL (ANSI, MySQL, T-SQL) • C++
+  
+Upcoming Languages: C • C# • JavaScript & TypeScript • PHP 
 
 <br /><br />
 
@@ -29,6 +31,14 @@ I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writi
 [![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
   
 [![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
+
+<br /><br /><br />
+  
+## Other Projects
+  
+I have some miscellaneous projects which you might find useful.
+
+[![NoMoreGGSans Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=NoMoreGGSans&show_owner=true&theme=react)](https://github.com/lokka30/NoMoreGGSans)
 
 <br /><br /><br />
 
