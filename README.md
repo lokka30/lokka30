@@ -4,7 +4,7 @@
   
 I'm Lachlan, an Australian Cyber Security student. I'm passionate for the vast world of Computer Science. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
   
-Current Languages: Java • Python • Kotlin • SQL (ANSI, MySQL, T-SQL) • C++
+Current Languages: Java • Python • Kotlin • SQL (ANSI, MySQL, T-SQL) • C++ • Bash
   
 Upcoming Languages: C • C# • JavaScript & TypeScript • PHP 
 
