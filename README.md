@@ -3,6 +3,8 @@
 I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6] and tinkering with my homelab.
   
 I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore TypeScript, C#, C, and PHP in the near future. There's never enough tools in your toolbox!
+  
+If you enjoy my work, feel free to [donate](https://ko-fi.com/lokka30), though I greatly value contributions. Thanks :)
 
 <br /><br />
 
@@ -72,10 +74,6 @@ If the idea could benefit a decent portion of the community, I'd love to hear. P
 </div>
 
 [1]: https://www.spigotmc.org/resources/authors/lokka30.828699/
-[2]: https://papermc.io/
-[3]: https://spigotmc.org/
-[4]: https://github.com/anuraghazra/github-readme-stats
 [5]: https://github.com/piqueserver
 [6]: https://www.gnu.org/philosophy/free-sw.en.html
 [7]: https://github.com/SpadesX
-[8]: https://www.gnu.org/licenses/gpl-3.0.en.html
