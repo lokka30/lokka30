@@ -2,17 +2,15 @@
 
 # Hi!
   
-I'm Lachlan, an Australian Cyber Security student. I'm passionate for the vast world of Computer Science. In my spare time, I create and contribute to [freedom-respecting software][6] in the Minecraft and Ace of Spades communities.
+I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6] and tinkering with my homelab.
   
-Current Languages: Java • Python • Kotlin • SQL (ANSI, MySQL, T-SQL) • C++ • Bash
-  
-Upcoming Languages: C • C# • JavaScript & TypeScript • PHP 
+I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore TypeScript, C#, C, and PHP in the near future. There's never enough tools in your toolbox!
 
 <br /><br />
 
-## PaperMC Projects
+## Bukkit Projects
   
-Most of my projects are within my development organisation, [**ArcanePlugins**](https://github.com/ArcanePlugins). The aim of ArcanePlugins is to release and maintain high-quality freedom-respecting and gratis software for Minecraft server software such as [PaperMC][2] and [SpigotMC][3]. Here are two of our projects which you may find useful:
+I'm the founder of [**ArcanePlugins**](https://github.com/ArcanePlugins), a community developing high-quality libre plugins for various server software. Most of my projects have been transferred to this organisation. We maintain several projects, here are two of those:
 
 [![LevelledMobs](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
   
@@ -20,25 +18,28 @@ Most of my projects are within my development organisation, [**ArcanePlugins**](
 
 ### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins) 👈
 
-I also develop [a bunch of other resources][1] outside of ArcanePlugins, usually small plugins such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds).
+I also develop a bunch of other resources outside of ArcanePlugins, these are tiny plugins such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds) and [CraftCtl](https://github.com/lokka30/CraftCtl). They're published on [SpigotMC.org][1].
+  
+I'm currently contributing to [Hangar](https://github.com/lokka30/Hangar), and various other projects here and there.
 
 <br /><br />
 
 ## Ace of Spades Projects
 
-I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I plan on writing plugins for SpadesX once they have an API. 
-
-[![piqueserver Card](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
+I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I used to write scripts for pique, though I have decided to archive those and work on SpadesX instead.
   
-[![SpadesX Card](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
+[![SpadesX](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
+
+[![piqueserver](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
+[![TheHallwayScripts](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=TheHallwayScripts&show_owner=true&theme=react)](https://github.com/lokka30/TheHallwayScripts)
 
 <br /><br /><br />
   
 ## Other Projects
   
-I have some miscellaneous projects which you might find useful.
+Here are some other repositories of mine which you might find useful.
 
-[![NoMoreGGSans Card](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=NoMoreGGSans&show_owner=true&theme=react)](https://github.com/lokka30/NoMoreGGSans)
+[![NoMoreGGSans](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=NoMoreGGSans&show_owner=true&theme=react)](https://github.com/lokka30/NoMoreGGSans)
 
 <br /><br /><br />
 
