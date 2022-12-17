@@ -1,6 +1,4 @@
 <div align="center">
-
-# Hi!
   
 I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6] and tinkering with my homelab.
   
@@ -44,14 +42,32 @@ Here are some other repositories of mine which you might find useful.
 <br /><br /><br />
 
 ## Contact
-
-If you wish to contact me regarding a specific repository of mine, please check if I have listed any 'preferred' contact methods on the `README.md` file, such as a Discord guild or forum message link.
-
-If this does not apply, you may [e-mail me](mailto:lokka30@protonmail.com).
+  
+Join the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ) if it's anything to do with Minecraft resources. If it's private, you can [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
+  
+For SpadesX and piqueserver related matters, feel free to tag me in those chats.
+  
+For contact in regards to employment or confidential information, please [e-mail me](mailto:lachlan@mercurialdigital.com).
   
 <br /><br /><br />
   
-![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)
+## Q/A
+  
+<details><summary>Are you available for hire to create Minecraft resources?</summary>
+
+No: I don't have much free time, and I'm not interested in very low-paying work, so I have decided to not be available for hire to create Minecraft resources. I much prefer to spend this time creating public open-source projects which benefit the community.
+  
+However, I don't speak for plenty of people on the SpigotMC and MC-Market forums who are happily available for hire.
+  
+</details>
+  
+<details><summary>I have a plugin idea, can you make it?</summary>
+
+If the idea could benefit a decent portion of the community, I'd love to hear. Post on the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ)'s general channel, or [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30). Of course, you will be credited for the idea.
+  
+</details>
+  
+<br /><br /><br />
 
 </div>
 
