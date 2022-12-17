@@ -1,6 +1,6 @@
 <div align="center">
   
-I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6] and tinkering with my homelab.
+I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6], tinkering with my homelab, and various other hobbies.
   
 I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore TypeScript, C#, C, and PHP in the near future. There's never enough tools in your toolbox!
   
