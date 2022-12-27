@@ -2,9 +2,9 @@
   
 I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6], tinkering with my homelab, and various other hobbies.
   
-I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore TypeScript, C#, C, and PHP in the near future. There's never enough tools in your toolbox!
+I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore C#, TypeScript, C, and PHP in the near future. There's never enough tools in your toolbox!
   
-If you enjoy my work, feel free to [donate](https://ko-fi.com/lokka30), though I greatly value contributions. Thanks :)
+If you enjoy my work, please consider contributing (code, testing, documentation, support), or [donating](https://ko-fi.com/lokka30). Thanks :)
 
 <br /><br />
 
