@@ -8,7 +8,7 @@ If you enjoy my work, please consider contributing (code, testing, documentation
 
 <br /><br />
 
-## Bukkit Projects
+## Minecraft Resources
   
 I'm the founder of [**ArcanePlugins**](https://github.com/ArcanePlugins), a community developing high-quality libre plugins for various server software. Most of my projects have been transferred to this organisation. We maintain several projects, here are two of those:
 
@@ -24,7 +24,7 @@ I'm currently contributing to [Hangar](https://github.com/lokka30/Hangar), and v
 
 <br /><br />
 
-## Ace of Spades Projects
+## Ace of Spades Resources
 
 I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I used to write scripts for pique, though I have decided to archive those and work on SpadesX instead.
   
