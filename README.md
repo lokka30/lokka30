@@ -4,7 +4,7 @@ I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passi
   
 I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore C#, TypeScript, C, and PHP in the near future. There's never enough tools in your toolbox!
   
-If you enjoy my work, please consider contributing (code, testing, documentation, support), or [donating](https://ko-fi.com/lokka30). Thanks :)
+If you enjoy my work, please consider contributing (code, testing, documentation, support), [donating](https://ko-fi.com/lokka30), starring the repository, or adding a review on the SpigotMC resource page. Thanks :)
 
 <br /><br />
 
