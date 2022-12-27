@@ -47,10 +47,10 @@ Here are some other repositories of mine which you might find useful.
   
 | Topic | Location |
 | ----- | -------- |
-| Spigot/Paper Resources | [ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ) |
-| Spigot Private Message | [SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30) |
-| Personal Contact | [E-mail](mailto:lachlan@mercurialdigital.com) |
-  
+| Minecraft Resources Support/Chat | [ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ) or [ArcanePlugins Matrix Space](https://matrix.to/#/#arcaneplugins:matrix.org) |
+| Minecraft Resources DM | [SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30) |
+| Personal Contact (No Support) | [E-mail](mailto:lachlan@mercurialdigital.com) (No Support) |
+
 *E-mails requesting support for any of my repositories will be dismissed; repositories with offered support will have the correct contact locations advertised on the readme/description page.*
   
 <br /><br /><br />
