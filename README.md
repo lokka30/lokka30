@@ -45,11 +45,15 @@ Here are some other repositories of mine which you might find useful.
 
 ## Contact
   
-Join the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ) if it's anything to do with Minecraft resources. If it's private, you can [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
+- ... in regards to Minecraft resources:
+  - [Join the ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ)
+  - If it's private, and you are not asking for support, you can [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
   
-For SpadesX and piqueserver related matters, feel free to tag me in those chats.
-  
-For contact in regards to employment or confidential information, please [e-mail me](mailto:lachlan@mercurialdigital.com).
+- ... in regards to Ace of Spades (SpadesX / piqueserver):
+  - Ping me in one of the various AoS Discord guilds I am in, whichever is most pertinent of course.
+
+- ... in regards to employment, personal, or otherwise confidential information:
+  - Please [e-mail me](mailto:lachlan@mercurialdigital.com).
   
 <br /><br /><br />
   
@@ -57,15 +61,19 @@ For contact in regards to employment or confidential information, please [e-mail
   
 <details><summary>Are you available for hire to create Minecraft resources?</summary>
 
-No: I don't have much free time, and I'm not interested in very low-paying work, so I have decided to not be available for hire to create Minecraft resources. I much prefer to spend this time creating public open-source projects which benefit the community.
+Unfortunately, I am not interested in working on private resources.
   
-However, I don't speak for plenty of people on the SpigotMC and MC-Market forums who are happily available for hire.
+With my limited time, I prefer to work on resources which benefit as many people as possible.
   
 </details>
   
 <details><summary>I have a plugin idea, can you make it?</summary>
 
-If the idea could benefit a decent portion of the community, I'd love to hear. Post on the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ)'s general channel, or [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30). Of course, you will be credited for the idea.
+If the idea is not niche and could benefit a decent portion of the community, I'd love to hear!
+  
+Post on the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ)'s general channel, or [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
+  
+If I release the project, then you will receive due credit for the idea.
   
 </details>
   
