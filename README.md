@@ -45,15 +45,16 @@ Here are some other repositories of mine which you might find useful.
 
 ## Contact
   
-- ... in regards to Minecraft resources:
-  - [Join the ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ)
-  - If it's private, and you are not asking for support, you can [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
-  
-- ... in regards to Ace of Spades (SpadesX / piqueserver):
-  - Ping me in one of the various AoS Discord guilds I am in, whichever is most pertinent of course.
+### ... in regards to Minecraft resources:
+Please [join the ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ) and contact via the relevant channel.
 
-- ... in regards to employment, personal, or otherwise confidential information:
-  - Please [e-mail me](mailto:lachlan@mercurialdigital.com).
+If it's private, and you are not asking for support, you can [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
+  
+### ... in regards to Ace of Spades:
+You'll find me in the various AoS Discord guilds out there. :)
+
+### ... in regards to employment, personal, or otherwise confidential information:
+Please [e-mail me](mailto:lachlan@mercurialdigital.com).
   
 <br /><br /><br />
   
