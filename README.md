@@ -1,16 +1,16 @@
 <div align="center">
   
-I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to [libre software][6], tinkering with my homelab, and various other hobbies.
+Hi, I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to open source software, tinkering with my homelab, and various other hobbies.
   
-I write projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JavaScript. Aside from working on improving my ability in those languages, I also hope to explore C#, TypeScript, C, and PHP in the near future. There's never enough tools in your toolbox!
+I write my projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JS. Aside from working on improving my ability in those languages, I also hope to explore C#, TypeScript, C, and PHP in the near future. There's never enough tools in a toolbox!
   
-If you enjoy my work, please consider contributing (code, testing, documentation, support), [donating](https://ko-fi.com/lokka30), starring the repository, or adding a review on the SpigotMC resource page. Thanks :)
+If you enjoy my work, please consider contributing (code, testing, documentation, support), [donating](https://ko-fi.com/lokka30), starring the repository, or sending me some feedback. Thanks :)
 
 <br /><br />
 
 ## Minecraft Resources
   
-I'm the founder of [**ArcanePlugins**](https://github.com/ArcanePlugins), a community developing high-quality libre plugins for various server software. Most of my projects have been transferred to this organisation. We maintain several projects, here are two of those:
+I'm the founder of [**ArcanePlugins**](https://github.com/ArcanePlugins), an organisation developing high-quality open-source plugins for various server software. Most of my projects have been transferred to this organisation. We maintain several projects, here are our two most popular ones:
 
 [![LevelledMobs](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
   
@@ -51,29 +51,17 @@ Here are some other repositories of mine which you might find useful.
 | Minecraft Resources DM | [SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30) |
 | Personal Contact (No Support) | [E-mail](mailto:lachlan@mercurialdigital.com) (No Support) |
 
-*E-mails requesting support for any of my repositories will be dismissed; repositories with offered support will have the correct contact locations advertised on the readme/description page.*
+*My e-mail is not for unsolicited support.*
   
 <br /><br /><br />
-  
-## Q/A
-  
-<details><summary>Are you available for hire to create Minecraft resources?</summary>
 
-Unfortunately, I am not interested in working on private resources.
-  
-With my limited time, I prefer to work on resources which benefit as many people as possible.
-  
-</details>
-  
-<details><summary>I have a plugin idea, can you make it?</summary>
+## Fancy Stats
 
-If the idea is not niche and could benefit a decent portion of the community, I'd love to hear!
-  
-Post on the [ArcanePlugins Discord guild](https://discord.gg/HqZwdcJ)'s general channel, or [PM me on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30).
-  
-If I release the project, then you will receive due credit for the idea.
-  
-</details>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=lokka30&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokka30&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 <br /><br /><br />
 
