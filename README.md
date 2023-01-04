@@ -1,45 +1,61 @@
 <div align="center">
   
-Hi, I'm Lachlan, a Cyber Security student from Western Australia 🇦🇺. I'm passionate for computer science, spending my free time creating and contributing to open source software, tinkering with my homelab, and various other hobbies.
-  
-I write my projects in Java, Python, Kotlin, SQL, Bash, C++, HTML, CSS, and JS. Aside from working on improving my ability in those languages, I also hope to explore C#, TypeScript, C, and PHP in the near future. There's never enough tools in a toolbox!
-  
-If you enjoy my work, please consider contributing (code, testing, documentation, support), [donating](https://ko-fi.com/lokka30), starring the repository, or sending me some feedback. Thanks :)
+Welcome to my profile! I'm Lachlan, a Cyber Security student and software developer from Western Australia.
 
-<br /><br />
+I began my journey with free and open-source software with my first project, [PhantomCombat](https://www.spigotmc.org/resources/discontinued-phantomcombat.74060/). However, most know me for creating the [LevelledMobs](https://github.com/lokka30/LevelledMobs/) project, which I am glad is one of the highest rated resources on SpigotMC from its improvements to the PvE experience on thousands of servers. I have since transferred most of my Minecraft projects to the @ArcanePlugins organisation to better facilitate community contributions and discussions. Alongside working on my own resources, I have been contributing to various others as well.
 
-## Minecraft Resources
-  
-I'm the founder of [**ArcanePlugins**](https://github.com/ArcanePlugins), an organisation developing high-quality open-source plugins for various server software. Most of my projects have been transferred to this organisation. We maintain several projects, here are our two most popular ones:
+I work on several other types of projects. I have lately been interested in web development, system administration, self-hosting, and learning other programming languages. I'm also involved in the Ace of Spades community, contributing to [piqueserver](https://github.com/piqueserver/piqueserver) and [SpadesX](https://github.com/SpadesX/SpadesX).
 
-[![LevelledMobs](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=levelledmobs&show_owner=true&theme=react)](https://github.com/lokka30/levelledmobs)
-  
-[![Treasury](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=treasury&show_owner=true&theme=react)](https://github.com/lokka30/treasury)
+If you enjoy my work, please consider sending me feedback so I can improve it further - and don't forget to star the repository. ;)
 
-### 👉 [(Click here to see the rest!)](https://github.com/ArcanePlugins) 👈
+## Tools
 
-I also develop a bunch of other resources outside of ArcanePlugins, these are tiny plugins such as [PhantomWorlds](https://github.com/lokka30/PhantomWorlds) and [CraftCtl](https://github.com/lokka30/CraftCtl). They're published on [SpigotMC.org][1].
-  
-I'm currently contributing to [Hangar](https://github.com/lokka30/Hangar), and various other projects here and there.
+<a href="https://www.java.com/"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" height="30px"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" height="30px"></a>
+<a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Database-icon.svg" width="30px" height="30px"></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px"></a>
+<a href="https://www.arduino.cc/"><img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" height="30px"></a>
 
-<br /><br />
+<a href="https://git-scm.com/"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px"></a>
+<a href="https://github.com/"><img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" height="30px"></a>
+<a href="https://www.kernel.org/"><img alt="GNU+Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" height="30px"></a>
+<a href="https://www.microsoft.com/en-au/windows"><img alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px" height="30px"></a>
+<a href="https://www.apple.com/au/macos/ventura/"><img alt="macOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px" height="30px"></a>
+<a href="https://www.debian.org/"><img alt="Debian GNU+Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="30px" height="30px"></a>
+<a href="https://getfedora.org/"><img alt="Fedora GNU+Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="30px" height="30px"></a>
+<a href="https://www.sqlite.org/"><img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30px" height="30px"></a>
+<a href="https://en.wikipedia.org/wiki/Active_Directory"><img alt="Active Directory" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/10806iC89A90D5E635EE2D?v=v2" width="30px" height="30px"></a>
+<a href="https://sass-lang.com/"><img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" height="30px"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px"></a>
+<a href="https://www.jetbrains.com/"><img alt="JetBrains IDEs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="30px" height="30px"></a>
+<a href="https://gcc.gnu.org/"><img alt="GCC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="30px" height="30px"></a>
+<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px"></a>
+<a href="https://www.vim.org/"><img alt="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30px" height="30px"></a>
 
-## Ace of Spades Resources
+## Upcoming!
 
-I'm currently contributing to [SpadesX][7] and [piqueserver][5]. I used to write scripts for pique, though I have decided to archive those and work on SpadesX instead.
-  
-[![SpadesX](https://github-readme-stats.vercel.app/api/pin/?username=spadesx&repo=spadesx&show_owner=true&theme=react)](https://github.com/spadesx/spadesx)
+'cause there's never enough tools in a toolbox.
 
-[![piqueserver](https://github-readme-stats.vercel.app/api/pin/?username=piqueserver&repo=piqueserver&show_owner=true&theme=react)](https://github.com/piqueserver/piqueserver)
-[![TheHallwayScripts](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=TheHallwayScripts&show_owner=true&theme=react)](https://github.com/lokka30/TheHallwayScripts)
-
-<br /><br /><br />
-  
-## Other Projects
-  
-Here are some other repositories of mine which you might find useful.
-
-[![NoMoreGGSans](https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=NoMoreGGSans&show_owner=true&theme=react)](https://github.com/lokka30/NoMoreGGSans)
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" height="30px"></a>
+<a href="https://reactjs.org/"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" height="30px"></a>
+<a href="https://www.gatsbyjs.com/"><img alt="Gatsby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="30px" height="30px"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" height="30px"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" height="30px"></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" height="30px"></a>
+<a href="https://www.php.net/"><img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" height="30px"></a>
+<a href="https://discord.js.org/"><img alt="DiscordJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="30px" height="30px"></a>
+<a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30px" height="30px"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" height="30px"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" height="30px"></a>
+<a href="https://redis.io/"><img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" height="30px"></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img alt="RHEL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="30px" height="30px"></a>
 
 <br /><br /><br />
 
@@ -47,15 +63,13 @@ Here are some other repositories of mine which you might find useful.
   
 | Topic | Location |
 | ----- | -------- |
-| Minecraft Resources Support/Chat | [ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ) or [ArcanePlugins Matrix Space](https://matrix.to/#/#arcaneplugins:matrix.org) |
-| Minecraft Resources DM | [SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30) |
+| Minecraft Resources - Support/Chat | [ArcanePlugins Discord Guild](https://discord.gg/HqZwdcJ) or [ArcanePlugins Matrix Space](https://matrix.to/#/#arcaneplugins:matrix.org) |
+| Minecraft Resources - Direct Message | [SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30) |
 | Personal Contact (No Support) | [E-mail](mailto:lachlan@mercurialdigital.com) (No Support) |
 
 *My e-mail is not for unsolicited support.*
   
 <br /><br /><br />
-
-## Fancy Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lokka30&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -66,8 +80,3 @@ Here are some other repositories of mine which you might find useful.
 <br /><br /><br />
 
 </div>
-
-[1]: https://www.spigotmc.org/resources/authors/lokka30.828699/
-[5]: https://github.com/piqueserver
-[6]: https://www.gnu.org/philosophy/free-sw.en.html
-[7]: https://github.com/SpadesX
