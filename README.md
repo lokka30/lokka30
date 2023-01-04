@@ -1,12 +1,12 @@
 <div align="center">
   
-Welcome to my profile! I'm Lachlan, a Cyber Security student and software developer from Western Australia.
+Welcome to my profile! I'm Lachlan, a Cyber Security student and software developer from Western Australia. 🇦🇺
 
-I began my journey with free and open-source software with my first project, [PhantomCombat](https://www.spigotmc.org/resources/discontinued-phantomcombat.74060/). However, most know me for creating the [LevelledMobs](https://github.com/lokka30/LevelledMobs/) project, which I am glad is one of the highest rated resources on SpigotMC from its improvements to the PvE experience on thousands of servers. I have since transferred most of my Minecraft projects to the @ArcanePlugins organisation to better facilitate community contributions and discussions. Alongside working on my own resources, I have been contributing to various others as well.
+I began my journey with free and open-source software with my first project, [PhantomCombat](https://www.spigotmc.org/resources/discontinued-phantomcombat.74060/). However, most know me for founding the [LevelledMobs](https://github.com/lokka30/LevelledMobs/) project, which I am glad is one of the highest rated resources on SpigotMC from its improvements to the PvE experience on thousands of servers. I have since transferred most of my Minecraft projects to the [ArcanePlugins](https://github.com/ArcanePlugins) organisation to better facilitate community contributions and discussions. Alongside working on my own resources, I have been contributing to various others as well. That's the beauty of FOSS!
 
 I work on several other types of projects. I have lately been interested in web development, system administration, self-hosting, and learning other programming languages. I'm also involved in the Ace of Spades community, contributing to [piqueserver](https://github.com/piqueserver/piqueserver) and [SpadesX](https://github.com/SpadesX/SpadesX).
 
-If you enjoy my work, please consider sending me feedback so I can improve it further - and don't forget to star the repository. ;)
+If you enjoy my work, please consider sending me feedback so I can improve it further, and don't forget to star the repository. ;)
 
 ## Tools
 
