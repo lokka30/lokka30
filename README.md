@@ -68,15 +68,4 @@ If you enjoy my work, please consider sending me feedback so I can improve it fu
 | Personal Contact (No Support) | [E-mail](mailto:lachlan@mercurialdigital.com) (No Support) |
 
 *My e-mail is not for unsolicited support.*
-  
-<br /><br /><br />
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=lokka30&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokka30&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
-<br /><br /><br />
-
 </div>
