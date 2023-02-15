@@ -27,8 +27,6 @@ Low Experience:
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" height="30px"></a>
 </p>
-  
-<br /><br /><br />
 
 ## Contact
   
