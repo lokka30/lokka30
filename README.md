@@ -1,15 +1,50 @@
-`Cyber Security Student • JVM Software Developer`
+Hey, I'm a student from Western Australia who has a strong passion for computing and security, on both software and hardware.
 
-G'day, I'm a Cyber Security student from Western Australia with a strong passion for electronics, particularly in computer software and hardware.
+One of my pastimes programming - you'll find most of my public repositories in my org [ArcanePlugins](https://github.com/ArcanePlugins). Some of my projects include [LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs) (one of the top highest rated resources on Spigot).
 
-My go-to pastime is programming. I run [ArcanePlugins](https://github.com/ArcanePlugins), a group developing high-quality Java and Kotlin plugins for Minecraft (you'll find most of my public work here). My most popular projects are [LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs) and [Treasury](https://github.com/ArcanePlugins/Treasury), both of which I am grateful to have generous contributors for. I also write Discord bots, dabble in web development, and work on a range of personal projects. Though the vast majority of the projects I've published on GitHub are written in Java or Kotlin, I also write personal projects in C++, Python, and JavaScript. I'm interested in developing my knowledge of R, Ruby, C, C#, PHP, and Rust. ArcanePlugins aside, I contribute to other projects where I can, such as [piqueserver](https://github.com/piqueserver/piqueserver) and [SpadesX](https://github.com/SpadesX/SpadesX), for instance.
+To contact me:
+- Support-related inquiries: check if Discord is linked on the repository, otherwise create an issue.
+- Other inquiries (no support): please [email me](mailto:lachlan@mercurialdigital.com).
 
-If you need to contact me, feel free to [email me](mailto:lachlan@mercurialdigital.com) (no software support will be provided there). Please direct all Minecraft plugin queries to the [ArcanePlugins Discord](https://discord.gg/HqZwdcJ) instead.
-
-Cheers for stopping by, and enjoy the rest of your day!
+Cheers
 
 ***
 
-![lokka30's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokka30&show_icons=true&theme=react&hide=stars&show=reviews)
+<div align="center">
 
-<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+### My Toolkit
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<br />
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<br />
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<br />
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<br />
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
