@@ -1,11 +1,11 @@
-Currently studying Cyber Security. 🇦🇺
+`cybersecurity` `programming`
 
-One of my pastimes programming – primarily, I write software for Minecraft and Ace of Spades.
+I modify games (primarily Minecraft and Ace of Spades - likely how you found me here).
 
-I am the original author of [LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs), which has mostly solidified its position as a top-3 rated plugin by SpigotMC forum members. LevelledMobs has inspired a few 'clone' attempts, brought thousands of concurrent users, and became large enough of a project for me to create the [ArcanePlugins](https://github.com/ArcanePlugins) organisation (and ultimately hand over maintenance to generous contributors as my free time deteriorated).
+Original author of [LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs), one of the top three highest rated plugins on SpigotMC. LM has inspired its fair share of imitations and brought thousands of concurrent servers with happy owners. I've moved most of my Minecraft software under the [ArcanePlugins](https://github.com/ArcanePlugins) org for collaboration. Thank you to [Penal](https://github.com/stumper66) and [Oath](https://github.com/UltimaOath) for carrying the torch maintaining LM.
 
-My development 'toolkit' includes a variety of operating systems, languages, DBMSs, and whatnot. I primarily program on UNIX-like systems in Java, Kotlin, Python, C++, and C, mostly self-taught through these technologies being fantastic tools at solving problems. I also dabble in web development, Rust, C#, Windows app development, and various other technologies.
+My development 'toolkit' includes a variety of programming languages, operating systems, and other tools. I primarily program on (and for) UNIX-like systems in Java, Kotlin, Python, C++, C, Rust, and C#.
 
-Feel free to [email me](mailto:lachy@lachy.space) if you'd like to contact *(please note, resource support is not provided there)*.
+Feel free to [email me](mailto:lachy@lachy.space) if you'd like to reach out.
 
 Cheers 🍻
